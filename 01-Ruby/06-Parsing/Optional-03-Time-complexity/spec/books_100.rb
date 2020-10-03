@@ -1,4 +1,3 @@
-
 BOOKS_100 = [
   "97 Things Every Programmer Should Know: Collective Wisdom from the Experts",
   "A Smarter Way to Learn",
